@@ -15,7 +15,7 @@ function App() {
             count is: {count}
           </button>
         </p>
-        <p>This is on development.</p>
+        <p>Some changes on <code>devel</code></p>
       </header>
     </div>
   )
