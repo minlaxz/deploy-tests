@@ -15,7 +15,7 @@ function App() {
             count is: {count}
           </button>
         </p>
-        <p>Some changes on <code>devel</code></p>
+        <p>Some changes on <code>main</code></p>
       </header>
     </div>
   )
